@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459955454464",
+    "firebase_url": "https://phoneumbrafinal-default-rtdb.firebaseio.com",
+    "project_id": "phoneumbrafinal",
+    "storage_bucket": "phoneumbrafinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459955454464:android:a20689020338d110b14ee5",
+        "android_client_info": {
+          "package_name": "com.example.phoneumbra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459955454464-dsgpi2fq8oi0ulha8pa56mfuai1stosv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNJ-u1c_Iai_gLb0Lk3v3oPZHoP8fLJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459955454464-dsgpi2fq8oi0ulha8pa56mfuai1stosv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
